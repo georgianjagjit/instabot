@@ -1,4 +1,4 @@
-var TAG = 'followback';
+var TAG = 'follow';
 
 casper.test.begin('Find people to follow', 1, 
     function suite(test) {
